@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<configuracion>
+    <perfiles>
+        <perfil>
+            <nombre>Deportista</nombre>
+            <palabrasClave>
+                <palabra>fútbol</palabra>
+                <palabra>balonmano</palabra>
+                <palabra>baloncesto</palabra>
+                <palabra>football</palabra>
+                <palabra>basketball</palabra>
+                <palabra>estadio</palabra>
+                <palabra>selección</palabra>
+                <palabra>liga de campeones</palabra>
+                <palabra>natación</palabra>
+                <palabra>olimpiada</palabra>
+                <palabra>gym</palabra>
+                <palabra>gimnasio</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>Cultura Saludable</nombre>
+            <palabrasClave>
+                <palabra>gimnasio</palabra>
+                <palabra>comida saludable</palabra>
+                <palabra>ejercicio</palabra>
+                <palabra>maratón</palabra>
+                <palabra>carrera</palabra>
+                <palabra>entreno</palabra>
+                <palabra>entrenar</palabra>
+                <palabra>entrenamiento</palabra>
+                <palabra>pesas</palabra>
+                <palabra>karate</palabra>
+                <palabra>tae kwon do</palabra>
+                <palabra>boxeo</palabra>
+                <palabra>vitaminas</palabra>
+                <palabra>caminata</palabra>
+                <palabra>caminar</palabra>
+                <palabra>ropa</palabra>
+                <palabra>ropa deportiva</palabra>
+                <palabra>bebida hidratante</palabra>
+                <palabra>bebidas hidratantes</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>IA</nombre>
+            <palabrasClave>
+                <palabra>aprendizaje automático</palabra>
+                <palabra>redes neuronales</palabra>
+                <palabra>procesamiento del lenguaje natural</palabra>
+                <palabra>deep learning</palabra>
+                <palabra>visión por computadora</palabra>
+                <palabra>robótica</palabra>
+                <palabra>sistemas expertos</palabra>
+                <palabra>inteligencia artificial</palabra>
+                <palabra>algoritmos</palabra>
+                <palabra>big data</palabra>
+                <palabra>mineria de datos</palabra>
+                <palabra>chatbot</palabra>
+                <palabra>asistente virtual</palabra>
+                <palabra>aprendizaje profundo</palabra>
+                <palabra>aprendizaje reforzado</palabra>
+                <palabra>aprendizaje supervisado</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>Música</nombre>
+            <palabrasClave>
+                <palabra>instrumentos</palabra>
+                <palabra>guitarra</palabra>
+                <palabra>batería</palabra>
+                <palabra>voz</palabra>
+                <palabra>notas</palabra>
+                <palabra>ritmo</palabra>
+                <palabra>composición</palabra>
+                <palabra>canción</palabra>
+                <palabra>armonía</palabra>
+                <palabra>concierto</palabra>
+                <palabra>banda</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>Cocina</nombre>
+            <palabrasClave>
+                <palabra>recetas</palabra>
+                <palabra>ingredientes</palabra>
+                <palabra>utensilios</palabra>
+                <palabra>cocinar</palabra>
+                <palabra>plato principal</palabra>
+                <palabra>postre</palabra>
+                <palabra>vegetariano</palabra>
+                <palabra>vegano</palabra>
+                <palabra>comida internacional</palabra>
+                <palabra>bebidas</palabra>
+                <palabra>mariscos</palabra>
+                <palabra>ensaladas</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>Tecnología</nombre>
+            <palabrasClave>
+                <palabra>computadora</palabra>
+                <palabra>smartphone</palabra>
+                <palabra>internet</palabra>
+                <palabra>programación</palabra>
+                <palabra>lenguajes de programación</palabra>
+                <palabra>desarrollo de software</palabra>
+                <palabra>inteligencia artificial</palabra>
+                <palabra>ciberseguridad</palabra>
+                <palabra>big data</palabra>
+                <palabra>robotica</palabra>
+                <palabra>drones</palabra>
+                <palabra>computación en la nube</palabra>
+            </palabrasClave>
+        </perfil>
+        <perfil>
+            <nombre>Cine</nombre>
+            <palabrasClave>
+                <palabra>películas</palabra>
+                <palabra>actores</palabra>
+                <palabra>directores</palabra>
+                <palabra>cinematográfica</palabra>
+                <palabra>géneros cinematográficos</palabra>
+                <palabra>taquilla</palabra>
+                <palabra>festivales de cine</palabra>
+                <palabra>premios cinematográficos</palabra>
+                <palabra>películas clásicas</palabra>
+                <palabra>cine de terror</palabra>
+                <palabra>cine de acción</palabra>
+                <palabra>cine independiente</palabra>
+                <palabra>guion</palabra>
+            </palabrasClave>
+        </perfil>
+    </perfiles>
+    <descartadas>
+        <palabra>a</palabra>
+        <palabra>un</palabra>
+        <palabra>una</palabra>
+        <palabra>en</palabra>
+        <palabra>para</palabra>
+        <palabra>por</palabra>
+        <palabra>que</palabra>
+        <palabra>no</palabra>
+        <palabra>sino</palabra>
+        <palabra>entre</palabra>
+        <palabra>otro</palabra>
+        <palabra>otra</palabra>
+        <palabra>otros</palabra>
+        <palabra>de</palabra>
+        <palabra>del</palabra>
+        <palabra>nos</palabra>
+        <palabra>sus</palabra>
+        <palabra>su</palabra>
+        <palabra>am</palabra>
+        <palabra>pm</palabra>
+    </descartadas>
+</configuracion>
